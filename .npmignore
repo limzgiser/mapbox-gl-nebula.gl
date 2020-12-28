@@ -1,0 +1,10 @@
+
+/node_modules
+/docs
+/src
+/index.html
+/package-lock.json
+/test.html
+/config
+
+
