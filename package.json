@@ -14,8 +14,11 @@
     "license": "ISC",
     "dependencies": {
         "@deck.gl/mapbox": "^8.3.11",
+        "@mapbox/mapbox-gl-draw": "^1.2.0",
         "deck.gl": "^8.3.11",
         "mapbox-gl": "^1.13.0",
+        "mapbox-gl-draw-circle": "^1.1.2",
+        "mapbox-gl-draw-rectangle-mode": "^1.0.4",
         "nebula.gl": "^0.21.1",
         "whatwg-fetch": "^3.5.0"
     },
